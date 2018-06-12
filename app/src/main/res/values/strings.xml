@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Musical</string>
+
+    <string name="title_songs">SONGS</string>
+    <string name="title_albums">ALBUMS</string>
+
+    <!--Minutes To Midnight-->
+    <string name="album_minute_to_midnight">Minutes To Midnight</string>
+    <string name="artist_linkin_park">Linkin Park</string>
+    <string name="song_leave_out_all_the_rest">Leave Out All the Rest</string>
+    <string name="song_shadow_of_the_day">Shadow of the Day</string>
+    <string name="song_valentine_day">Valentine\'s Day</string>
+    <string name="song_what_i_have_done">What I\'ve Done</string>
+
+    <!--Singles-->
+    <string name="album_singles">Singles</string>
+    <string name="artist_maroon5">Maroon 5</string>
+    <string name="song_she_will_be_loved">She Will Be Loved</string>
+    <string name="song_animals">Animals</string>
+    <string name="song_one_more_night">One More Night</string>
+    <string name="song_payphone">Payphone( feat. Wiz Khalifa)</string>
+
+    <!--Bajirao Mastani & Ram Leela-->
+    <string name="artist_arijit">Arijit Singh</string>
+    <string name="album_bajirao_mastani">Bajirao Mastani</string>
+    <string name="song_aayat">Aayat</string>
+    <string name="album_ram_leela">Ram Leela</string>
+    <string name="song_laal_ishq">Laal Ishq</string>
+
+    <!--Swades-->
+    <string name="album_swades">Swades</string>
+    <string name="artist_a_r_rahman">A. R. Rahman</string>
+    <string name="song_yeh_jo_des">Yeh Jo Des Hai Tera</string>
+
+    <!--Faded Japan - EP-->
+    <string name="album_faded_japan">Faded Japan - EP</string>
+    <string name="artist_alan_walker">Alan Walker</string>
+    <string name="song_faded">Faded</string>
+    <string name="song_alone_alan">Alone</string>
+
+    <!--Hitmix 2017-->
+    <string name="album_hitmix">Hitmix 2017</string>
+    <string name="artist_luis">Luis Fonsi</string>
+    <string name="song_despacito">Despacito</string>
+    <string name="artist_marshmello">Marshmello</string>
+    <string name="song_alone_marshmello">Alone</string>
+
+    <!--Collage-->
+    <string name="album_collage">Collage</string>
+    <string name="artist_chainsmokers">The Chainsmokers</string>
+    <string name="song_closer">Closer( feat. Halsey)</string>
+    <string name="song_dont_let_me_down">Don\'t Let Me down( feat. Daya)</string>
+
+    <!--American Idiot-->
+    <string name="album_american_idiot">American Idiot</string>
+    <string name="artist_green_day">Green Day</string>
+    <string name="song_boulevard_of_broken_dreams">Boulevard of Broken Dreams</string>
+    <string name="song_wake_me_up">Wake Me Up When September Ends</string>
+
+    <!--My Name is Khan-->
+    <string name="album_my_name_is_khan">My Name is Khan</string>
+    <string name="artist_as_sm_sg">Adnan Sami, Shankaran Mahadevan &amp; Shreya Goshal</string>
+    <string name="song_noor_e_khuda">Noor E Khuda</string>
+    <string name="artist_rfak_sm_rs">Rahat Fateh Ali Khan, Shankaran Mahadevan &amp; Richa Sharma</string>
+    <string name="song_sajdaa">Sajdaa</string>
+
+    <!--This is Acting-->
+    <string name="album_this_is_acting">This is Acting</string>
+    <string name="artist_sia">Sia</string>
+    <string name="song_cheap_thrills">Cheap Thrills</string>
+</resources>

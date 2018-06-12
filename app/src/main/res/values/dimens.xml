@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--activity_albums_list_item.xml dimensions-->
+    <dimen name="album_image_width">85dp</dimen>
+    <dimen name="album_image_height">85dp</dimen>
+    <dimen name="album_image_padding">6dp</dimen>
+    <dimen name="album_second_ll_padding_start_end">6dp</dimen>
+
+    <!--activity_songs_in_album.xml diemensions-->
+    <dimen name="ll_margin_top">32dp</dimen>
+
+    <!--activity_songs_list_item.xml dimensions-->
+    <dimen name="song_image_width">85dp</dimen>
+    <dimen name="song_image_height">85dp</dimen>
+    <dimen name="song_image_padding">6dp</dimen>
+    <dimen name="song_second_ll_padding_start_end">6dp</dimen>
+
+    <!--activity_now_playing.xml-->
+    <dimen name="first_ll_padding_bottom">16dp</dimen>
+    <dimen name="first_ll_textview1_margin_top">32dp</dimen>
+    <dimen name="first_ll_imageview_margin_top">24dp</dimen>
+    <dimen name="first_ll_textview2_margin_top">16dp</dimen>
+    <dimen name="first_ll_textview3_margin_top">16dp</dimen>
+    <dimen name="second_ll_margin_top">48dp</dimen>
+    <dimen name="second_ll_imageview_margin_end">16dp</dimen>
+    <dimen name="second_ll_imageview_margin_start">16dp</dimen>
+</resources>
